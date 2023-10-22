@@ -5,4 +5,7 @@ This is a youtube clone done with the help of basic front end tools like html an
 ##### HTML 
 ##### CSS
 
+## Note:
+
+This is solely designed by myself.
 
